@@ -50,4 +50,4 @@ class MLRequestSerializer(serializers.ModelSerializer):
             "response",
             "feedback",
             "created_at",
-            "parent_mlalgorithm",
+            "parent_mlalgorithm", )
